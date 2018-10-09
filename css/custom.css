@@ -9,3 +9,8 @@ Esta es la hoja para sobreescribir las Librerias
 #espacioblanco {
   height: 80px;
 }
+
+.carta-img {
+  height: 167px;
+  width: 348px;
+}
